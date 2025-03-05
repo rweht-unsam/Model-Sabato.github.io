@@ -1,6 +1,2 @@
-# Modelizacion-de-Materiales.github.io
-Pagina Web de la Materia "modelizacion de Materiales" de maestría , Doctorado e ingenieria del 
-instituto sabato.
-
-index: pagina de inicio con los links superiores, carga el texto desde default.html
-default.html: texto de presentacion
+# Modelizacion de Materiales
+Pagina Web de la Materia "Modelizacion de Materiales" de Ingenieria en Materiales - Instituto Sabato.
