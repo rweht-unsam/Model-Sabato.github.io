@@ -1,2 +1,2 @@
 # Modelizacion de Materiales
-Pagina Web de la Materia "Modelizacion de Materiales" de Ingenieria en Materiales - Instituto Sabato.
+Clases teóricas y guías de problemas de la Materia Modelización de Materiales y Procesos, Ingeniería en Materiales, Instituto Saabato
