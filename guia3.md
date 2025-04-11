@@ -2,9 +2,7 @@
 
 Problema 1:
 
-Se desplaza el punto final del sistema de resortes mostrado en la
-figura, hasta unirlo a la pared. Todos los resortes tienen constantes $k~=~200~kN/m$, siendo el desplazamiento final de $\delta~=~20~mm$. Determine los desplazamientos de cada uno de los nodos, las fuerzas en cada elemento y
-las fuerzas globales (reacción de la pared y **F**).
+Se desplaza el punto final del sistema de resortes mostrado en la figura, hasta unirlo a la pared. Todos los resortes tienen constantes $\mathrm{k}~=~200~\mathrm{kN/m}$, siendo el desplazamiento final de $\delta~=~20~\mathrm{mm}$. Determine los desplazamientos de cada uno de los nodos, las fuerzas en cada elemento y las fuerzas globales (reacción de la pared y **F**).
 
    ![Imagen 3-1](./Practica_1/img-3.1.png "Ejercicio 3-1")
 
